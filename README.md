@@ -1,51 +1,17 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto apresneta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o "ChatGPT" para escrever e revisar as informações sobre a IA Generativa nos benefícios do dia a dia.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A inteligência artificial generativa oferece diversos benefícios no dia a dia, incluindo: 1. **Criatividade Aumentada**: Pode ajudar a gerar ideias para projetos, arte, música e escrita, servindo como uma ferramenta colaborativa para criadores. 2. **Automação de Tarefas**: Facilita a automação de tarefas repetitivas, como a criação de relatórios, design de apresentações e gerenciamento de conteúdos. 3. **Personalização**: Permite a personalização de experiências, como recomendações de produtos ou conteúdos baseados nas preferências do usuário. 4. **Assistência em Aprendizagem**: Oferece suporte em processos educacionais, como explicações de conceitos complexos e geração de materiais de estudo. 5. **Melhoria na Comunicação**: Auxilia na redação e revisão de textos, melhorando a clareza e a coesão da comunicação escrita. 6. **Desenvolvimento de Produtos**: Acelera o processo de design e prototipagem, permitindo a criação mais rápida de novos produtos. 7. **Suporte ao Atendimento ao Cliente**: Melhora a eficiência do atendimento ao cliente, com chatbots que podem responder a perguntas comuns de forma automática. Esses são apenas alguns exemplos de como a IA generativa pode ser aplicada em várias áreas da vida cotidiana, economizando tempo e aumentando a eficiência e a criatividade.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Este projeto foi uma experiência incrível, pois me aprimorei mais sobre as IA's Generativas e seus benefícios para a sociedade.
