@@ -1,7 +1,7 @@
 # Texto: Benefícios das IA's Generativas
 
 ## 📒 Descrição
-Este projeto apresneta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+Este projeto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
 
 
 ## 🤖 Tecnologias Utilizadas
